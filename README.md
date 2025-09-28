@@ -1,4 +1,3 @@
-
 # Minimalist To-Do App (MERN + Tailwind)
 
 ## Features
